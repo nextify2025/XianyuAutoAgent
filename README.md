@@ -119,7 +119,7 @@ python main.py
     </tr>
     <tr>
       <td><img src="./images/wx_group14-3.png" width="300px" alt="交流群14"></td>
-      <td><img src="./images/wx_group15.jpg" width="300px" alt="交流群15"></td>
+      <td><img src="./images/wx_group15-2.png" width="300px" alt="交流群15"></td>
     </tr>
   </table>
 </div>
